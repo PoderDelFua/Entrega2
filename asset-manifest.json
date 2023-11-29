@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Entrega2/static/css/main.6ccd65a8.css",
+    "main.js": "/Entrega2/static/js/main.11a1d22f.js",
+    "static/js/787.ddc9eb34.chunk.js": "/Entrega2/static/js/787.ddc9eb34.chunk.js",
+    "index.html": "/Entrega2/index.html",
+    "main.6ccd65a8.css.map": "/Entrega2/static/css/main.6ccd65a8.css.map",
+    "main.11a1d22f.js.map": "/Entrega2/static/js/main.11a1d22f.js.map",
+    "787.ddc9eb34.chunk.js.map": "/Entrega2/static/js/787.ddc9eb34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.11a1d22f.js"
+  ]
+}
